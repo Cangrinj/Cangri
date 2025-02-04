@@ -1,0 +1,2 @@
+# Cangri
+LOUD settings
